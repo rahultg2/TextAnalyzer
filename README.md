@@ -1,4 +1,4 @@
-# Text_analyzer
+# TextAnalyzer
 a django based web app having features :-
 => Remove Punctuations
 => Uppercase Conversion
